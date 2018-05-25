@@ -18,6 +18,7 @@
 .me {
   border-radius: 10%;
   width: 100%;
+  padding-right: 7px;
 }
 
 .about {
@@ -51,7 +52,7 @@ figure {
   text-align: center;
 }
 
-.row figure {
+.border figure {
   border: rgba(98, 106, 119, .1) solid 2px;
   border-radius: 10%;
 }

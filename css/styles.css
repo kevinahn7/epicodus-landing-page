@@ -10,6 +10,7 @@ h2 {
 * {
   outline: red solid 10px;
   background-color: red;
+  font-family: 'Poppins', sans-serif;
 }
 
 footer {

@@ -56,6 +56,16 @@ figure {
   border-radius: 10%;
 }
 
+.link {
+  transition: .5s;
+}
+
+.link:hover {
+  transition: .5s;
+  transform: scale(1.1);
+  text-decoration: none;
+}
+
 .picture {
   border-bottom: rgba(98, 106, 119, .1) solid 2px;
   width: 100%;
@@ -63,10 +73,10 @@ figure {
 }
 
 a {
-  color: none;
+  color: #333;
 }
 
-.description {
+a:-webkit-any-link {
   text-decoration: none;
 }
 

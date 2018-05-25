@@ -1,7 +1,45 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
+\
+.container {
+  padding: 0;
+}
+
+.jumbotron {
+  text-align: center;
+  font-size: 30px;
+}
+
+.sidebar {
+  border-right: rgba(98, 106, 119, .3) solid 3px;
+}
+
+.me {
+  border-radius: 10%;
+  width: 100%;
+}
+
+.row {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.projects {
+  border-bottom: rgba(98, 106, 119, .3) solid 3px;
+}
 
 figure {
   display: inline-block;
+}
+
+footer {
+  margin-top:
+}
+
+.foot {
+  margin-top: 30px;
+  margin-bottom: 0;
+  text-align: right;
 }

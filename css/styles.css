@@ -1,7 +1,7 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
-\
+
 .container {
   padding: 0;
 }
@@ -20,18 +20,54 @@
   width: 100%;
 }
 
+.about {
+  width: 100%;
+}
+
 .row {
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
+  width: 100%;
 }
 
 .projects {
   border-bottom: rgba(98, 106, 119, .3) solid 3px;
+  text-align: right;
+  padding-bottom: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-right: 20px;
+}
+
+.first {
+  margin-top: 20px;
 }
 
 figure {
   display: inline-block;
+  margin: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.row figure {
+  border: rgba(98, 106, 119, .1) solid 2px;
+  border-radius: 10%;
+}
+
+.picture {
+  border-bottom: rgba(98, 106, 119, .1) solid 2px;
+  width: 100%;
+  border-radius: 10% 10% 0 0;
+}
+
+a {
+  color: none;
+}
+
+.description {
+  text-decoration: none;
 }
 
 footer {

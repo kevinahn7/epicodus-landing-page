@@ -5,6 +5,7 @@
 #### By Kevin Ahn
 
 ## Setup/Installation Requirements
+Clone this directory onto your own directory using the link on the GitHub repository
 Here are the links to our GitHub repositories and the GitHub page:  
 
 * [Epicodus Portfolio Repository](https://github.com/kevinahn7/epicodus-portfolio)  
@@ -13,4 +14,6 @@ Here are the links to our GitHub repositories and the GitHub page:
 ## Technologies Used
 * HTML  
 * CSS  
-* Bootstrap  
+* Bootstrap   
+
+Copyright © Kevin Ahn 2018

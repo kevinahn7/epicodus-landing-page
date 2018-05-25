@@ -1,18 +1,7 @@
-figure {
-  display: inline-block;
-  background-color: red;
-}
-
-h2 {
-  background-color: red;
-}
-
 * {
-  outline: red solid 10px;
-  background-color: red;
   font-family: 'Poppins', sans-serif;
 }
 
-footer {
-  background-color: red;
+figure {
+  display: inline-block;
 }

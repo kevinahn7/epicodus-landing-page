@@ -5,6 +5,7 @@
 .container {
   padding: 0;
 }
+
 body {
   background-image: url("../img/pattern.png");
 }
@@ -106,32 +107,51 @@ footer {
   h2 {
     font-size: 60px;
   }
+
   .aspiring {
     font-size: 35px;
   }
+
   .sidebar {
     padding: 130px;
     border: none;
   }
+
   .row {
     display: block;
   }
+
   .projects {
     text-align: left;
     font-size: 50px;
     padding-left: 15px;
   }
+
   .picture {
     width: 70%;
     border: none;
     border-radius: 10%;
   }
+
   .link {
-    margin: 30px auto 30px auto;
+    margin: 30px auto;
     width: 70%;
   }
+
   .description {
     font-size: 30px;
     margin-top: 10px;
+  }
+
+  .border {
+    text-align: center;
+  }
+
+  .about {
+    font-size: 1.5em;
+  }
+
+  span {
+    font-size: 1.3em;
   }
 }
